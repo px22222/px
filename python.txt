@@ -1,3 +1,0 @@
-hi python
-i like python
-devops
